@@ -31,3 +31,4 @@ C:\Github\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net7.0\refint\MagicVilla_Vill
 C:\Github\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.pdb
 C:\Github\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.genruntimeconfig.cache
 C:\Github\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net7.0\ref\MagicVilla_VillaAPI.dll
+c:\Github\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net7.0\MagicVilla_VillaAPI.sourcelink.json
